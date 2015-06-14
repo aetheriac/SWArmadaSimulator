@@ -1,0 +1,13 @@
+package com.saylesoft.swarmada.simulator.utilities;
+
+/**
+ * Created by dsayles on 5/14/15.
+ */
+public enum DieFace {
+    BLANK,
+    ACCURACY,
+    HIT,
+    CRITICAL,
+    DOUBLE_HIT,
+    HIT_AND_CRIT;
+}
